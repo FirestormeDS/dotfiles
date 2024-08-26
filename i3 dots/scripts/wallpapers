@@ -1,0 +1,1 @@
+feh --bg-scale "$(find ~/wallpapers/ -name "*.png" | sxiv -riot | head -n 1)"

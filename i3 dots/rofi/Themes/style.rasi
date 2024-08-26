@@ -1,0 +1,14 @@
+
+* {
+  bg: #282828; /* Gruvbox dark background */
+  bgAlt: #3c3836; /* Gruvbox alternate background */
+  fg: #ebdbb2; /* Gruvbox foreground color */
+  button: #3c3836; /* Gruvbox button color */
+  background-color: @bg;
+  text-color: @fg;
+}
+
+configuration {
+  font: "FiraCode Nerd Font 13";
+}
+
